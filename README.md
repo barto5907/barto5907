@@ -27,4 +27,4 @@ Me gusta llevar un proyecto de principio a fin: desde analizar el problema hasta
 ## Contacto
 
 - 📧 bartolomeojeda2@gmail.com
-- 💼 [LinkedIn](PON-AQUI-TU-URL-DE-LINKEDIN)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bartolomeojeda)
